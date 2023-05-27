@@ -1,0 +1,212 @@
+[
+    {
+        "id": 1,
+        "name": "Jiro Ono",
+        "details": "Ono is a world-renowned sushi chef and owner of Sukiyabashi Jiro, a three-Michelin-starred sushi restaurant in Tokyo. With over 80 years of experience, Jiro is widely regarded as a master of sushi craftsmanship.",
+        "img": "https://i.ibb.co/tCYTvHh/professional-chef-doing-food.jpg",
+        "experience": "80 years",
+        "recipes": [
+            {
+                "id": 1,
+                "title": "Sushi",
+                "short_details": "Vinegared rice combined with fresh fish and vegetables, rolled in seaweed or formed into bite-sized pieces.",
+                "cooking_method": "Cook sushi rice and prepare ingredients. Place sushi rice on seaweed, add ingredients, roll tightly, and slice.",
+                "image": "https://i0.wp.com/post.healthline.com/wp-content/uploads/2021/09/sushi-sashimi-1296x728-header.jpg?w=1155&h=1528",
+                "rating": 4.5
+            },
+            {
+                "id": 2,
+                "title": "Ramen",
+                "short_details": "A comforting noodle soup dish with flavorful broth, topped with sliced pork, soft-boiled eggs, and green onions.",
+                "cooking_method": "Prepare broth, cook ramen noodles, boil eggs, slice pork, assemble ingredients in a bowl, and serve.",
+                "image": "https://www.foodandwine.com/thmb/0AXGLeY6dYnY8sEXFqxBa8opDrs=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/Tonkotsu-Ramen-FT-BLOG1122-8fe6c12d609a4fd4ab246bea3aae140e.jpg",
+                "rating": 4.8
+            },
+            {
+                "id": 3,
+                "title": "Tempura",
+                "short_details": "Lightly battered and deep-fried vegetables or seafood, resulting in a crispy and delicious dish.",
+                "cooking_method": "Mix batter, dip ingredients, deep-fry until golden and crispy, and serve with dipping sauce.",
+                "image": "https://img.taste.com.au/ZT9GGty1/taste/2016/11/tempura-49031-1.jpeg",
+                "rating": 4.2
+            }
+        ],
+        "rec_numbers": 3,
+        "like": "1000"
+    },
+    {
+        "id": 2,
+        "name": "Nobu Matsuhisa",
+        "details": " Nobu Matsuhisa is a celebrity chef and restaurateur known for his fusion cuisine, blending traditional Japanese flavors with South American ingredients and techniques. With around 50 years of experience, Nobu has expanded his eponymous restaurant empire worldwide.",
+        "img": "https://i.ibb.co/42BKCy0/man-preparing-sushi-order-takeaway.jpg",
+        "experience": "45 years",
+        "recipes": [
+            {
+                "id": 4,
+                "title": "Yakitori",
+                "short_details": "Skewered chicken pieces grilled to perfection and typically served with a savory soy-based glaze.",
+                "cooking_method": "Cut chicken, skewer, grill with sauce, and serve hot.",
+                "image": "https://cdn.shopify.com/s/files/1/1218/6304/articles/Yakitori_Tare.jpg?v=1616626587",
+                "rating": 4.6
+            },
+            {
+                "id": 5,
+                "title": "Miso Soup",
+                "short_details": "A traditional Japanese soup made with miso paste, tofu, seaweed, and sometimes vegetables or fish.",
+                "cooking_method": "Heat water or dashi, dissolve miso paste, add ingredients, simmer, and serve hot.",
+                "image": "https://www.pressurecookrecipes.com/wp-content/uploads/2021/05/miso-soup.jpg",
+                "rating": 4.3
+            },
+            {
+                "id": 6,
+                "title": "Tonkatsu",
+                "short_details": "Breaded and deep-fried pork cutlets served with a tangy tonkatsu sauce, often accompanied by shredded cabbage.",
+                "cooking_method": "Pound pork, coat with flour, eggs, breadcrumbs, deep-fry until crispy, and serve with sauce and cabbage.",
+                "image": "https://www.foodandwine.com/thmb/hicXzmGIIpkwyX3Q55IYiupQjMo=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/Katsu-Curry-Japanese-Curry-with-Tonkatsu-Nuggets-and-Fried-Egg-FT-RECIPE0922-2000-bd3fa359de3544448906652f53f53bb3.jpg",
+                "rating": 4.7
+            }
+        ],
+        "rec_numbers": 3,
+        "like": "700"
+    },
+    {
+        "id": 3,
+        "name": "Masaharu Morimoto",
+        "details": "Masaharu Morimoto gained international fame as an Iron Chef on the television show 'Iron Chef America.' He is recognized for his innovative and artistic approach to Japanese cuisine. With over 40 years of experience, Morimoto has several acclaimed restaurants around the world.",
+        "img": "https://i.ibb.co/R4Q4hm8/male-chef-with-gloves-making-pasta.jpg",
+        "experience": "35 years",
+        "recipes": [
+            {
+                "id": 7,
+                "title": "Okonomiyaki",
+                "short_details": "A savory pancake made with shredded cabbage, flour, and various ingredients, topped with a special sauce, mayonnaise, and bonito flakes.",
+                "cooking_method": "Prepare batter, add ingredients, cook on a griddle, and serve with sauce, mayonnaise, and bonito flakes.",
+                "image": "https://www.spoonforkbacon.com/wp-content/uploads/2021/09/okonomiyaki-recipe-card.jpg",
+                "rating": 4.4
+            },
+            {
+                "id": 8,
+                "title": "Sukiyaki",
+                "short_details": "A hot pot dish consisting of thinly sliced beef, tofu, vegetables, and noodles cooked in a soy-based broth at the table.",
+                "cooking_method": "Slice beef, prepare ingredients, heat a pot, add beef, vegetables, tofu, and broth, simmer, and dip in beaten egg.",
+                "image": "https://int.japanesetaste.com/cdn/shop/articles/how-to-make-sukiyaki-at-home-kansai-sukiyaki-recipe-japanese-taste.jpg?v=1676439148&width=5760",
+                "rating": 4.1
+            },
+            {
+                "id": 9,
+                "title": "Gyoza",
+                "short_details": "Pan-fried dumplings filled with a mixture of ground meat and vegetables, usually served with a soy-based dipping sauce.",
+                "cooking_method": "Prepare filling, place on a wrapper, fold, pan-fry until golden, add water, cover, steam, and serve with dipping sauce.",
+                "image": "https://static01.nyt.com/images/2019/09/16/dining/kwr-gyoza/merlin_160427046_9e2ab11e-f937-4f2e-a268-4f46b8480c73-superJumbo.jpg",
+                "rating": 4.9
+            }
+        ],
+        "rec_numbers": 3,
+        "like": "600"
+    },
+    {
+        "id": 4,
+        "name": "Yoshihiro Murata",
+        "details": "Yoshihiro Murata is a highly respected chef and advocate for Japanese cuisine. He is the owner of the renowned Kikunoi restaurants in Kyoto and Tokyo, which serve traditional kaiseki cuisine. With over 50 years of experience, Murata is known for preserving and promoting traditional Japanese culinary arts.",
+        "img": "https://i.ibb.co/F8dnHgq/male-chef-kitchen-cooking.jpg",
+        "experience": "50 years",
+        "recipes": [
+            {
+                "id": 10,
+                "title": "Sashimi",
+                "short_details": "Fresh, thinly sliced raw fish or seafood served as a delicacy and often accompanied by soy sauce and wasabi.",
+                "cooking_method": "Select fresh fish or seafood, slice into bite-sized pieces, arrange on a plate, and serve with soy sauce and wasabi.",
+                "image": "https://upload.wikimedia.org/wikipedia/commons/8/83/Sashimi_combo_%2830122297838%29.jpg",
+                "rating": 4.2
+            },
+            {
+                "id": 11,
+                "title": "Chawanmushi",
+                "short_details": "A delicate steamed egg custard dish with various ingredients like mushrooms, shrimp, and fish cake.",
+                "cooking_method": "Whisk eggs and dashi, add ingredients, pour into cups, steam, and serve warm.",
+                "image": "https://www.newmalaysiankitchen.com/wp-content/uploads/2017/07/chawanmushi-Japanese-Steamed-Egg-1.jpg",
+                "rating": 4.6
+            },
+            {
+                "id": 12,
+                "title": "Udon",
+                "short_details": "Thick wheat noodles served in a savory broth, often garnished with green onions, tempura, or sliced meat.",
+                "cooking_method": "Cook udon noodles, prepare broth, and serve noodles in a bowl with broth and desired garnishes.",
+                "image": "https://images.kitchenstories.io/wagtailOriginalImages/R2788-photo-final-2.jpg",
+                "rating": 4.3
+            }
+        ],
+        "rec_numbers": 3,
+        "like": "800"
+    },
+    {
+        "id": 5,
+        "name": "Hiroyuki Sakai",
+        "details": "Hiroyuki Sakai is another renowned Iron Chef from the original 'Iron Chef' television series. He specializes in French cuisine with a Japanese twist, creating unique and elegant dishes. Sakai has accumulated over 40 years of experience and has earned widespread acclaim for his culinary skills.",
+        "img": "https://i.ibb.co/7NkqP9t/high-angle-chef-preparing-salad.jpg",
+        "experience": "40 years",
+        "recipes": [
+            {
+                "id": 13,
+                "title": "Soba",
+                "short_details": "Thin buckwheat noodles served cold with a dipping sauce or hot in a broth, commonly accompanied by tempura or green onions.",
+                "cooking_method": "Cook soba noodles, rinse in cold water for cold soba or transfer to hot broth for hot soba, and serve with desired accompaniments.",
+                "image": "https://www.thespruceeats.com/thmb/87YpRwQY3AZSlki59_x6PzI7NB0=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/zaru-soba-2031635-Hero_02-80c9e4d6661d460682fadb946f107f6a.jpg",
+                "rating": 4.7
+            },
+            {
+                "id": 14,
+                "title": "Donburi",
+                "short_details": "A rice bowl dish topped with various ingredients like simmered beef, breaded pork, or egg and chicken.",
+                "cooking_method": "Cook rice, prepare topping, place topping over rice in a bowl, garnish, and serve.",
+                "image": "https://images.ctfassets.net/uexfe9h31g3m/7npnKwJTzKnXDibC33k6ux/5886eb7897540b523f8a0be87a107bb1/Donburi_copy.jpg?w=2000&h=2000&fm=webp&fit=thumb&q=90",
+                "rating": 4.5
+            },
+            {
+                "id": 15,
+                "title": "Chirashi Sushi",
+                "short_details": "A colorful bowl of sushi rice topped with a variety of sashimi, vegetables, and garnishes.",
+                "cooking_method": "Cook sushi rice, prepare sashimi, vegetables, and garnishes, place rice in a bowl, arrange toppings, and serve.",
+                "image": "https://cookingwithdog.com/wp-content/uploads/2019/03/chirashi-sushi-00.jpg",
+                "rating": 4.8
+            }
+        ],
+        "rec_numbers": 3,
+        "like": "700"
+    },
+    {
+        "id": 6,
+        "name": "Heston Blumenthal",
+        "details": "While not Japanese, Heston Blumenthal, a British chef, has made notable contributions to Japanese cuisine through his innovative and scientific approach. He has explored the concept of umami and worked with Japanese ingredients in his Michelin-starred restaurant, The Fat Duck. With over 33 years of experience, Blumenthal has pushed the boundaries of culinary experimentation.",
+        "img": "https://i.ibb.co/7SBVCc8/cook-standing-with-rolling-pin-hand.jpg",
+        "experience": "33 years",
+        "recipes": [
+            {
+                "id": 16,
+                "title": "Omurice",
+                "short_details": "Fried rice wrapped in a thin omelette and often topped with ketchup.",
+                "cooking_method": "Cook fried rice with ingredients, beat eggs, cook thin omelette, place fried rice on the omelette, fold, top with ketchup, and serve.",
+                "image": "https://contenthub.kraftheinz.com/api/public/content/8c687e49d5504f1f851c12f6e41a9521?v=14afa143",
+                "rating": 4.2
+            },
+            {
+                "id": 17,
+                "title": "Nikujaga",
+                "short_details": "A hearty stew made with thinly sliced beef, potatoes, onions, and carrots, simmered in a soy-based sauce.",
+                "cooking_method": "Sauté beef with onions, add potatoes, carrots, and broth, simmer until vegetables are tender, season with soy sauce and sugar, and serve hot.",
+                "image": "https://www.tiger-corporation.com/wp-content/uploads/2023/04/hero-img-recipe-nikujyaga-7091ad953dd458158b370ee52ef41524.jpg",
+                "rating": 4.6
+            },
+            {
+                "id": 18,
+                "title": "Oyakodon",
+                "short_details": "A rice bowl dish with chicken and beaten eggs cooked together in a sweet and savory sauce.",
+                "cooking_method": "Cook rice, sauté chicken and onions, beat eggs, pour over chicken and onions, cook until eggs are set, and serve over rice.",
+                "image": "https://www.seriouseats.com/thmb/t2cbi4d-LeZGu__DP5dF1gBuzsM=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/oyakodon-japanese-chicken-and-egg-rice-bowl-recipe-hero-f2d42cfe8e8e4436b97d6e79d038d9bc.JPG",
+                "rating": 4.3
+            }
+        ],
+        "rec_numbers": 3,
+        "like": "400"
+    }
+]
