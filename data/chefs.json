@@ -1,40 +1,5 @@
 [
     {
-        "id": 1,
-        "name": "Jiro Ono",
-        "details": "Ono is a world-renowned sushi chef and owner of Sukiyabashi Jiro, a three-Michelin-starred sushi restaurant in Tokyo. With over 80 years of experience, Jiro is widely regarded as a master of sushi craftsmanship.",
-        "img": "https://i.ibb.co/tCYTvHh/professional-chef-doing-food.jpg",
-        "experience": "80 years",
-        "recipes": [
-            {
-                "id": 1,
-                "title": "Sushi",
-                "short_details": "Vinegared rice combined with fresh fish and vegetables, rolled in seaweed or formed into bite-sized pieces.",
-                "cooking_method": "Cook sushi rice and prepare ingredients. Place sushi rice on seaweed, add ingredients, roll tightly, and slice.",
-                "image": "https://i0.wp.com/post.healthline.com/wp-content/uploads/2021/09/sushi-sashimi-1296x728-header.jpg?w=1155&h=1528",
-                "rating": 4.5
-            },
-            {
-                "id": 2,
-                "title": "Ramen",
-                "short_details": "A comforting noodle soup dish with flavorful broth, topped with sliced pork, soft-boiled eggs, and green onions.",
-                "cooking_method": "Prepare broth, cook ramen noodles, boil eggs, slice pork, assemble ingredients in a bowl, and serve.",
-                "image": "https://www.foodandwine.com/thmb/0AXGLeY6dYnY8sEXFqxBa8opDrs=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/Tonkotsu-Ramen-FT-BLOG1122-8fe6c12d609a4fd4ab246bea3aae140e.jpg",
-                "rating": 4.8
-            },
-            {
-                "id": 3,
-                "title": "Tempura",
-                "short_details": "Lightly battered and deep-fried vegetables or seafood, resulting in a crispy and delicious dish.",
-                "cooking_method": "Mix batter, dip ingredients, deep-fry until golden and crispy, and serve with dipping sauce.",
-                "image": "https://img.taste.com.au/ZT9GGty1/taste/2016/11/tempura-49031-1.jpeg",
-                "rating": 4.2
-            }
-        ],
-        "rec_numbers": 3,
-        "like": "1000"
-    },
-    {
         "id": 2,
         "name": "Nobu Matsuhisa",
         "details": " Nobu Matsuhisa is a celebrity chef and restaurateur known for his fusion cuisine, blending traditional Japanese flavors with South American ingredients and techniques. With around 50 years of experience, Nobu has expanded his eponymous restaurant empire worldwide.",
@@ -42,7 +7,7 @@
         "experience": "45 years",
         "recipes": [
             {
-                "id": 4,
+                "id": 41,
                 "title": "Yakitori",
                 "short_details": "Skewered chicken pieces grilled to perfection and typically served with a savory soy-based glaze.",
                 "cooking_method": "Cut chicken, skewer, grill with sauce, and serve hot.",
@@ -50,7 +15,7 @@
                 "rating": 4.6
             },
             {
-                "id": 5,
+                "id": 51,
                 "title": "Miso Soup",
                 "short_details": "A traditional Japanese soup made with miso paste, tofu, seaweed, and sometimes vegetables or fish.",
                 "cooking_method": "Heat water or dashi, dissolve miso paste, add ingredients, simmer, and serve hot.",
@@ -58,7 +23,7 @@
                 "rating": 4.3
             },
             {
-                "id": 6,
+                "id": 61,
                 "title": "Tonkatsu",
                 "short_details": "Breaded and deep-fried pork cutlets served with a tangy tonkatsu sauce, often accompanied by shredded cabbage.",
                 "cooking_method": "Pound pork, coat with flour, eggs, breadcrumbs, deep-fry until crispy, and serve with sauce and cabbage.",
@@ -77,7 +42,7 @@
         "experience": "35 years",
         "recipes": [
             {
-                "id": 7,
+                "id": 71,
                 "title": "Okonomiyaki",
                 "short_details": "A savory pancake made with shredded cabbage, flour, and various ingredients, topped with a special sauce, mayonnaise, and bonito flakes.",
                 "cooking_method": "Prepare batter, add ingredients, cook on a griddle, and serve with sauce, mayonnaise, and bonito flakes.",
@@ -85,7 +50,7 @@
                 "rating": 4.4
             },
             {
-                "id": 8,
+                "id": 81,
                 "title": "Sukiyaki",
                 "short_details": "A hot pot dish consisting of thinly sliced beef, tofu, vegetables, and noodles cooked in a soy-based broth at the table.",
                 "cooking_method": "Slice beef, prepare ingredients, heat a pot, add beef, vegetables, tofu, and broth, simmer, and dip in beaten egg.",
@@ -93,7 +58,7 @@
                 "rating": 4.1
             },
             {
-                "id": 9,
+                "id": 91,
                 "title": "Gyoza",
                 "short_details": "Pan-fried dumplings filled with a mixture of ground meat and vegetables, usually served with a soy-based dipping sauce.",
                 "cooking_method": "Prepare filling, place on a wrapper, fold, pan-fry until golden, add water, cover, steam, and serve with dipping sauce.",
@@ -112,7 +77,7 @@
         "experience": "50 years",
         "recipes": [
             {
-                "id": 10,
+                "id": 101,
                 "title": "Sashimi",
                 "short_details": "Fresh, thinly sliced raw fish or seafood served as a delicacy and often accompanied by soy sauce and wasabi.",
                 "cooking_method": "Select fresh fish or seafood, slice into bite-sized pieces, arrange on a plate, and serve with soy sauce and wasabi.",
@@ -120,7 +85,7 @@
                 "rating": 4.2
             },
             {
-                "id": 11,
+                "id": 111,
                 "title": "Chawanmushi",
                 "short_details": "A delicate steamed egg custard dish with various ingredients like mushrooms, shrimp, and fish cake.",
                 "cooking_method": "Whisk eggs and dashi, add ingredients, pour into cups, steam, and serve warm.",
@@ -128,7 +93,7 @@
                 "rating": 4.6
             },
             {
-                "id": 12,
+                "id": 121,
                 "title": "Udon",
                 "short_details": "Thick wheat noodles served in a savory broth, often garnished with green onions, tempura, or sliced meat.",
                 "cooking_method": "Cook udon noodles, prepare broth, and serve noodles in a bowl with broth and desired garnishes.",
@@ -147,7 +112,7 @@
         "experience": "40 years",
         "recipes": [
             {
-                "id": 13,
+                "id": 131,
                 "title": "Soba",
                 "short_details": "Thin buckwheat noodles served cold with a dipping sauce or hot in a broth, commonly accompanied by tempura or green onions.",
                 "cooking_method": "Cook soba noodles, rinse in cold water for cold soba or transfer to hot broth for hot soba, and serve with desired accompaniments.",
@@ -155,7 +120,7 @@
                 "rating": 4.7
             },
             {
-                "id": 14,
+                "id": 141,
                 "title": "Donburi",
                 "short_details": "A rice bowl dish topped with various ingredients like simmered beef, breaded pork, or egg and chicken.",
                 "cooking_method": "Cook rice, prepare topping, place topping over rice in a bowl, garnish, and serve.",
@@ -163,7 +128,7 @@
                 "rating": 4.5
             },
             {
-                "id": 15,
+                "id": 151,
                 "title": "Chirashi Sushi",
                 "short_details": "A colorful bowl of sushi rice topped with a variety of sashimi, vegetables, and garnishes.",
                 "cooking_method": "Cook sushi rice, prepare sashimi, vegetables, and garnishes, place rice in a bowl, arrange toppings, and serve.",
@@ -182,7 +147,7 @@
         "experience": "33 years",
         "recipes": [
             {
-                "id": 16,
+                "id": 161,
                 "title": "Omurice",
                 "short_details": "Fried rice wrapped in a thin omelette and often topped with ketchup.",
                 "cooking_method": "Cook fried rice with ingredients, beat eggs, cook thin omelette, place fried rice on the omelette, fold, top with ketchup, and serve.",
@@ -190,7 +155,7 @@
                 "rating": 4.2
             },
             {
-                "id": 17,
+                "id": 171,
                 "title": "Nikujaga",
                 "short_details": "A hearty stew made with thinly sliced beef, potatoes, onions, and carrots, simmered in a soy-based sauce.",
                 "cooking_method": "Sauté beef with onions, add potatoes, carrots, and broth, simmer until vegetables are tender, season with soy sauce and sugar, and serve hot.",
@@ -198,7 +163,7 @@
                 "rating": 4.6
             },
             {
-                "id": 18,
+                "id": 181,
                 "title": "Oyakodon",
                 "short_details": "A rice bowl dish with chicken and beaten eggs cooked together in a sweet and savory sauce.",
                 "cooking_method": "Cook rice, sauté chicken and onions, beat eggs, pour over chicken and onions, cook until eggs are set, and serve over rice.",
@@ -208,5 +173,40 @@
         ],
         "rec_numbers": 3,
         "like": "400"
+    },
+    {
+        "id": 1,
+        "name": "Jiro Ono",
+        "details": "Ono is a world-renowned sushi chef and owner of Sukiyabashi Jiro, a three-Michelin-starred sushi restaurant in Tokyo. With over 80 years of experience, Jiro is widely regarded as a master of sushi craftsmanship.",
+        "img": "https://i.ibb.co/tCYTvHh/professional-chef-doing-food.jpg",
+        "experience": "80 years",
+        "recipes": [
+            {
+                "id": 11,
+                "title": "Sushi",
+                "short_details": "Vinegared rice combined with fresh fish and vegetables, rolled in seaweed or formed into bite-sized pieces.",
+                "cooking_method": "Cook sushi rice and prepare ingredients. Place sushi rice on seaweed, add ingredients, roll tightly, and slice.",
+                "image": "https://i0.wp.com/post.healthline.com/wp-content/uploads/2021/09/sushi-sashimi-1296x728-header.jpg?w=1155&h=1528",
+                "rating": 4.5
+            },
+            {
+                "id": 21,
+                "title": "Ramen",
+                "short_details": "A comforting noodle soup dish with flavorful broth, topped with sliced pork, soft-boiled eggs, and green onions.",
+                "cooking_method": "Prepare broth, cook ramen noodles, boil eggs, slice pork, assemble ingredients in a bowl, and serve.",
+                "image": "https://www.foodandwine.com/thmb/0AXGLeY6dYnY8sEXFqxBa8opDrs=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/Tonkotsu-Ramen-FT-BLOG1122-8fe6c12d609a4fd4ab246bea3aae140e.jpg",
+                "rating": 4.8
+            },
+            {
+                "id": 31,
+                "title": "Tempura",
+                "short_details": "Lightly battered and deep-fried vegetables or seafood, resulting in a crispy and delicious dish.",
+                "cooking_method": "Mix batter, dip ingredients, deep-fry until golden and crispy, and serve with dipping sauce.",
+                "image": "https://img.taste.com.au/ZT9GGty1/taste/2016/11/tempura-49031-1.jpeg",
+                "rating": 4.2
+            }
+        ],
+        "rec_numbers": 3,
+        "like": "1000"
     }
 ]
